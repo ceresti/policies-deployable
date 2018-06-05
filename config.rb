@@ -22,45 +22,45 @@ helpers do
 
   # FILL IN YOUR COMPANY INFORMATION HERE
   def company_name
-    "Acme Inc"
+    "Ceresti Health, Inc."
   end
 
   def company_name_phone
-    "888-888-8888"
+    "760-453-0997"
   end
 
   def company_name_email
-    "contact@company.com"
+    "info@ceresti.com"
   end
 
   def company_url
-    "company.com"
+    "ceresti.com"
   end
 
   # FILL IN YOUR SECURITY OFFICER INFORMATION HERE
   def security_officer
-    "John Smith, CTO"
+    "Mark Wrenn, CTO"
   end
 
   def security_officer_phone
-    "111-111-1111"
+    "760-687-6689"
   end
 
   def security_officer_email
-    "john.s@company.com"
+    "mark.wrenn@ceresti.com"
   end
 
   # FILL IN YOUR PRIVACY OFFICER INFORMATION HERE
   def privacy_officer
-    "Jane Doe, CEO"
+    "Kevin Liang, CSO"
   end
 
   def privacy_officer_phone
-    "111-111-1111"
+    "760-111-1111"
   end
 
   def privacy_officer_email
-    "jane.d@company.com"
+    "kevin.liang@ceresti.com"
   end
 
  end
